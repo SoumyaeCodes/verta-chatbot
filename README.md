@@ -19,9 +19,9 @@ To start working with the `ecom-chatbot` project, please follow the setup instru
 
 This guide includes steps for creating a GCP account, configuring environment variables, setting up GitHub secrets, deploying locally, and hosting the Chatbot API. Once the initial setup is complete, you can explore the following detailed guides for specific aspects of the project:
 
-- [Understand the API Payloads](https://github.com/eCom-dev5/eCom-Chatbot/blob/dev/readme/API_README.md)
-- [Explore ML Pipelines](https://github.com/eCom-dev5/eCom-Chatbot/blob/dev/readme/00_ML_PIPELINES.md)
-- [Stage 1 - Base Model](https://github.com/eCom-dev5/eCom-Chatbot/blob/dev/readme/01_BASE_MODEL.md)
+- [Understand the API Payloads](readme/API_README.md)
+- [Explore ML Pipelines](readme/00_ML_PIPELINES.md)
+- [Stage 1 - Base Model](readme/01_BASE_MODEL.md)
 - [Stage 2 - Test Data Ingestion](https://github.com/eCom-dev5/eCom-Chatbot/blob/dev/readme/02_TEST_INGESTION.md)
 - [Stage 3 - Model Evaluation](https://github.com/eCom-dev5/eCom-Chatbot/blob/dev/readme/03_MODEL_EVALUATION.md)
 - [Stage 4 - Bias Detection](https://github.com/eCom-dev5/eCom-Chatbot/blob/dev/readme/04_BIAS_DETECTION.md)
